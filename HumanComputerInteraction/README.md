@@ -1,5 +1,5 @@
 ### لینک پروژه نهایی
-[کلیک کنید](mir-mohammad.github.io/learning/)
+[ اینجا کلیک کنید](mir-mohammad.github.io/learning/)
 
 
 mir-mohammad.github.io/learning/
