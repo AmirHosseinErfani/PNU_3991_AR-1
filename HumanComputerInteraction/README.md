@@ -1,6 +1,9 @@
 نمونه کتاب ارائه شده در دانشگاه های دیگر 
+
 Computers and Society
+
 Ronald M. Baecker
+
 Publisher: Oxford University Press
 
 Published in print: 2019
