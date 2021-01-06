@@ -98,7 +98,7 @@
     <th>اصول طراحی کامپایلر</th>
     <th></th>
     <th>مطالعه درسی</th>
-    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines" >نظريه زبانهاوماشين ها 01-1115157</a></th>
+    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines" >نظريه زبانهاوماشين ها </a></th>
     <th></th>
     <th></th>
     <th>شنبه</th>
