@@ -22,12 +22,14 @@ Dr. Luis Leiva,
 
 PhD students Janin Koch and Pedram Daee.
 
+------------------
+
 ### لینک پروژه نهایی
 [ اینجا کلیک کنید](mir-mohammad.github.io/learning/)
 
 
+### :لینک به صورت جداگانه 
 mir-mohammad.github.io/learning/
-:لینک به صورت جداگانه 
 
 ---------
 ### :اعضای گروه
