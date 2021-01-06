@@ -25,16 +25,15 @@
 > ارزیابی ها
 
 ##  بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SZ_CV_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی بخش عمومی](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SZ_GeneralSection_CheckList_AR_3991.pdf)
+- [ارزیابی رزومه و انگیزه نامه]()
+- [خلاصه ارزیابی بخش عمومی]()
 
 ##  بخش دروس ارشد
+- [خلاصه ارزیابی درس طراحی واسط کاربر]()
+- [خلاصه ارزیابی درس تعامل انسان و کامپیوتر]()
+- [خلاصه ارزیابی درس نظریه زبان و ماشین]()
 
-
-
-
-
----
+------
 
 # گروه ها
 1. [G-U03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
