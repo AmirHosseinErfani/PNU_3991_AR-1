@@ -30,7 +30,7 @@
 
 ##  بخش دروس ارشد
 - [خلاصه ارزیابی درس طراحی واسط کاربر]()
-- [خلاصه ارزیابی درس تعامل انسان و کامپیوتر](PNU_3991_AR/HumanComputerInteraction/XX_HumanComputerInteraction_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس تعامل انسان و کامپیوتر](https://github.com/mir-mohammad/PNU_3991_AR/blob/main/HumanComputerInteraction/XX_HumanComputerInteraction_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی درس نظریه زبان و ماشین]()
 
 ------
