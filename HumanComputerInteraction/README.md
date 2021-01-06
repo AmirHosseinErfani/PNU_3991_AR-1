@@ -17,9 +17,8 @@ Published online: November 2020
 [ اینجا کلیک کنید](mir-mohammad.github.io/learning/)
 
 
-mir-mohammad.github.io/learning/
 ### :لینک به صورت جداگانه 
-
+mir-mohammad.github.io/learning/
 ---------
 ### :اعضای گروه
 1. [G-H02](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)
