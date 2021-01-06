@@ -2,6 +2,8 @@
 
 ### Computers and Society
 
+<a href="https://uupload.ir/view/nry6_hci.jpg" target="_blank"><img src="https://uupload.ir/files/nry6_hci_thumb.jpg" border="0" alt="آپلود عکس" /></a>
+
 Ronald M. Baecker
 
 Publisher: Oxford University Press
