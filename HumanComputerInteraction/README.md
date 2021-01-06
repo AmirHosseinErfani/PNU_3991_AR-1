@@ -18,7 +18,7 @@ Published online: November 2020
 
 
 mir-mohammad.github.io/learning/
-###:لینک به صورت جداگانه 
+### :لینک به صورت جداگانه 
 
 ---------
 ### :اعضای گروه
