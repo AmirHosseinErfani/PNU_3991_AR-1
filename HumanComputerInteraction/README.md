@@ -16,7 +16,9 @@ Published online: November 2020
 ------------------
 
 ### لینک پروژه نهایی
-[ اینجا کلیک کنید](mir-mohammad.github.io/learning/)
+- [ اینجا کلیک کنید](mir-mohammad.github.io/learning/)
+
+- [ جزيیات پروژه](https://github.com/mir-mohammad/PNU_3991_AR/blob/main/HumanComputerInteraction/MK_HumanComputerInteraction_CheckList_AR_3991.pdf)
 
 
 ### :لینک به صورت جداگانه 
